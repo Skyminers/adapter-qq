@@ -63,10 +63,7 @@ QQ_BOTS='
   {
     "id": "xxx",
     "token": "xxx",
-    "secret": "xxx",
-    "intent": {
-      "c2c_group_at_messages": true
-    }
+    "secret": "xxx"
   }
 ]
 '
